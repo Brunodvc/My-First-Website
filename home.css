@@ -1,0 +1,74 @@
+.background {
+  background-image: url(https://i.imgur.com/KJkoVdT.png);
+  background-size: cover;
+}
+.header {
+  display: flex;
+  flex-direction: row;
+  /*outline: 1px solid red;*/
+}
+.mark-type {
+  padding: 10px;
+}
+.points {
+  padding: 10px;
+}
+.body {
+  padding: 10px;
+  /*outline: 1px solid green;*/
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.mark-images {
+   /*outline: 1px solid blue;*/
+   width: 1200px;
+   height: 600px;
+   display: flex;
+   flex-direction: row;
+  justify-content: space-between;
+}
+.mark-image-box {
+  outline: 1px solid black;
+  padding: 10px;
+  height: 200px;
+  width: 200px;
+  margin-top: 300px;
+  margin-bottom: 20px;
+}
+.locked-mark {
+  background-image: url(https://i.imgur.com/LDcl8nE.jpeg);
+  background-size: cover;
+}
+.first-mark {
+  background-image: url(https://i.imgur.com/9yDwSoW.jpeg);
+  background-size: cover;
+}
+.second-mark-photo {
+  background-image: url(https://i.imgur.com/88mKp2D.jpeg);
+  background-size: cover;
+}
+.third-mark-photo {
+  background-image: url(https://i.imgur.com/LGaIfo7.jpeg);
+  background-size: cover;
+}
+.fourth-mark-photo {
+  background-image: url(https://i.imgur.com/Q0j1BSR.jpeg);
+  background-size: cover;
+}
+.fifth-mark-photo {
+  background-image: url(https://i.imgur.com/4gjwBNL.jpeg);
+  background-size: cover;
+}
+
+.berg-button {
+  margin: 10px;
+  height: 40px;
+  width: 100px;
+  border-radius: 10px;
+}
+
+.name {
+  color: white;
+}
